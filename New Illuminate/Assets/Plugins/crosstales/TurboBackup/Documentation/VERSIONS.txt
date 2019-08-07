@@ -1,0 +1,73 @@
+﻿# Turbo Backup PRO - Release notes
+
+## 2019.2.2 - 27.05.2019
+* Automatically setup Unity after a restore
+* Editor UI cleanup
+* Updated to Common 2019.3.2
+
+## 2019.2.1 - 10.04.2019
+* CLI improved
+* Editor improvements
+* Updated to Common 2019.2.5
+
+## 2019.2.0 - 12.03.2019
+* Pre- and post-method execution
+* Namespace changed from "Crosstales.TurboBackup" to "Crosstales.TB"
+* Updated to Common 2019.2.3
+
+## 2019.1.1 - 12.02.2019
+* "Delete UnityLockfile" is now part of the configuration
+* Asset cleanup
+* Updated to Common 2019.2.1
+
+## 2019.1.0 - 15.01.2019
+* Various improvements and fixes
+* Updated to Common 2019.1.0
+
+## 2018.4.0 - 01.11.2018
+* macOS and Linux: backup process improved
+* Execute methods for backup and restore
+* Helper.cs: RestartUnity added
+* Updated to Common 2018.4.0
+
+## 2018.3.1 - 18.10.2018
+* Info about the current project added to the backup/restore-process
+* Windows Editor: backup speed improved
+* Updated to Common 2018.3.1
+
+## 2018.3.0 - 08.10.2018
+* Minimum Unity version is now 5.6
+* Common 2018.3.0 added
+
+## 2018.2.1 - 21.09.2018
+* Copy for "Packages"-folder added (Unity 2017.4+)
+* VCS: Collab ignore file support added
+* Config is now independent from the Unity PlayerPrefs
+* Small improvements for the backup process
+* UpdateCheck: runs in a separate thread
+* Common 2018.2.1 added
+* Tested with Unity 2018.3
+
+## 2018.2.0 - 21.08.2018
+* Delete operation is now non-blocking
+* Common 2018.2.0 added
+* Discord channel added
+* Standard version removed
+
+## 1.1.2 - 21.06.2018
+* Unity Editor: performance improved and backup usage moved to the "Config"-tab
+* "Copy Library" is disabled per default
+
+## 1.1.1 - 07.06.2018
+* BAR: namespaces improved
+* Editor integration improved
+* Official support for Unity 2018.1 & 2018.2
+
+## 1.1.0 - 02.04.2018
+* Handling of git improved
+* Editor integration improved
+* Documentation improved
+* Common 1.2.6 added
+
+## 1.0.0 - 14.03.2018
+* Production release for UAS
